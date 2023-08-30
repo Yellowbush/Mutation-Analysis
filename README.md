@@ -5,8 +5,11 @@ The purpose of this project is to understand more about the relationship between
 
 ### Sources:
 [1] Brian Charlesworth, The Effects of Deleterious Mutations on Evolution at Linked Sites, Genetics, Volume 190, Issue 1, 1 January 2012, Pages 5–22, https://doi.org/10.1534/genetics.111.134288
+
 [2] MULLER HJ. Our load of mutations. Am J Hum Genet. 1950 Jun;2(2):111-76. PMID: 14771033; PMCID: PMC1716299.
+
 [3] Ruan, Y., et al. Improving polygenic prediction in ancestrally diverse populations. Nature Genetics 54, 573–580 (2022). https://scholar.harvard.edu/tge/publications/improving-polygenic-prediction-ancestrally-diverse-populations.
+
 [4] Yuan B, Schulze KV, Assia Batzir N, Sinson J, Dai H, Zhu W, Bocanegra F, Fong CT, Holder J, Nguyen J, Schaaf CP, Yang Y, Bi W, Eng C, Shaw C, Lupski JR, Liu P. Sequencing individual genomes with recurrent genomic disorder deletions: an approach to characterize genes for autosomal recessive rare disease traits. Genome Med. 2022 Sep 30;14(1):113. doi: 10.1186/s13073-022-01113-y. PMID: 36180924; PMCID: PMC9526336.
 
 ### Data Sources
